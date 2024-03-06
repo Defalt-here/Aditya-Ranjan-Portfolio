@@ -1,6 +1,6 @@
-# Quasar App (signature-app)
+# My portfolio
 
-A Quasar Project
+A portfolio
 
 ## Install the dependencies
 ```bash
